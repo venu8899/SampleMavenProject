@@ -33,21 +33,21 @@ formatter.match({
   "location": "SignIn.i_open_automationpractice_website()"
 });
 formatter.result({
-  "duration": 25747177032,
+  "duration": 71729252812,
   "status": "passed"
 });
 formatter.match({
   "location": "SignIn.i_sign_in()"
 });
 formatter.result({
-  "duration": 22862334277,
+  "duration": 23592321481,
   "status": "passed"
 });
 formatter.match({
   "location": "SignIn.i_sign_out()"
 });
 formatter.result({
-  "duration": 186329560,
+  "duration": 158638703,
   "status": "passed"
 });
 formatter.scenario({
@@ -72,14 +72,14 @@ formatter.match({
   "location": "SignIn.i_open_automationpractice_website()"
 });
 formatter.result({
-  "duration": 7743135017,
+  "duration": 38215542231,
   "status": "passed"
 });
 formatter.match({
   "location": "SignIn.I_perform_contact_us_actions()"
 });
 formatter.result({
-  "duration": 165301842,
+  "duration": 162257645,
   "status": "passed"
 });
 formatter.uri("features/SocialLink.feature");
@@ -112,14 +112,14 @@ formatter.match({
   "location": "SignIn.i_open_automationpractice_website()"
 });
 formatter.result({
-  "duration": 5747146812,
+  "duration": 8173584297,
   "status": "passed"
 });
 formatter.match({
   "location": "SocialLinkSteps.i_perform_Social_link_actions()"
 });
 formatter.result({
-  "duration": 864384649,
+  "duration": 684248398,
   "status": "passed"
 });
 });
