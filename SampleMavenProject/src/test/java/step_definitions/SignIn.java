@@ -20,9 +20,6 @@ public class SignIn {
 	
 	public WebDriver driver;
 	
-	
-	
-	
 	public SignIn(){
 		driver = Hooks.driver;
 		//System.setProperty("webdriver.chrome.driver","C://selenium-2.44.0/chromedriver.exe");

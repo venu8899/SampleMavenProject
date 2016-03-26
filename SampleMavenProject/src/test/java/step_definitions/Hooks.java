@@ -11,7 +11,7 @@ import cucumber.api.java.Before;
 
 public class Hooks {
 	
-	
+	// To open firefox driver
     public static WebDriver driver=new FirefoxDriver();
     
     /*
